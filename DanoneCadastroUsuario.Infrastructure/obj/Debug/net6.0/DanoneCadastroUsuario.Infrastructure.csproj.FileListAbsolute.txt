@@ -1,0 +1,17 @@
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.deps.json
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.runtimeconfig.json
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.pdb
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Domain.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\bin\Debug\net6.0\DanoneCadastroUsuario.Domain.pdb
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.AssemblyInfo.cs
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.csproj.CopyComplete
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\refint\DanoneCadastroUsuario.Infrastructure.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.pdb
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\DanoneCadastroUsuario.Infrastructure.genruntimeconfig.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Infrastructure\obj\Debug\net6.0\ref\DanoneCadastroUsuario.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\bin\Debug\net6.0\DanoneCadastroUsuario.Domain.deps.json
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\bin\Debug\net6.0\DanoneCadastroUsuario.Domain.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\bin\Debug\net6.0\DanoneCadastroUsuario.Domain.pdb
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.AssemblyInfo.cs
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\refint\DanoneCadastroUsuario.Domain.dll
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\DanoneCadastroUsuario.Domain.pdb
+C:\Users\mateu\source\repos\DanoneCadastroUsuario\DanoneCadastroUsuario.Domain\obj\Debug\net6.0\ref\DanoneCadastroUsuario.Domain.dll
